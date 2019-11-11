@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirDiskUsage", "DirDiskUsage\DirDiskUsage.csproj", "{0E1D2198-D75B-4719-BC52-FD8759676725}"
 EndProject
 Global
@@ -19,5 +21,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {23FA351C-3D3C-442C-8600-7C9F38958419}
 	EndGlobalSection
 EndGlobal
